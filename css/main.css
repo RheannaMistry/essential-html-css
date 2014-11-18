@@ -31,7 +31,7 @@ header, h1, h2, h3 {
 header {
 	background-color: #FA5A0F; 		
  	border-bottom: solid 5px #EA4A00; 			
- 	color: #FFFFFF;
+ 	color: #FFFFFF; 	
 }
 
 h1 {
@@ -63,10 +63,10 @@ header, section, footer {
  	padding: 1em;
 }
 
-#tag-line {
+.tag-line {
  	font-size: 120%
  	color: #EEEEEE;
- 	margins: 0;
+ 	margin: 0;
 }
 
 #menu { 				
